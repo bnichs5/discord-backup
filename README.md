@@ -1,3 +1,7 @@
+Make sure two packages are installed. discord-backup 3.0.1 and discord.js 13.5.1
+
+
+
 .replit file has two lines
 
 language = "nodejs"
