@@ -1,3 +1,11 @@
+.replit file has two lines
+language = "nodejs"
+run = "node backup.js" or restore.js
+
+Make sure guild name in file is the server name. Make sure it matches the one in the previous backup when you are restoring. 
+
+
+
 ## How to backup?
 1. Create a bot on the [Discord Developer Portal](https://discord.com/developers/applications/).
 2. Generate a client token with the bot scope.
